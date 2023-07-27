@@ -1,0 +1,8 @@
+numpy
+pandas
+seaborn
+matplotlib
+re
+nltk
+sklearn (for splitting the datset)
+keras
