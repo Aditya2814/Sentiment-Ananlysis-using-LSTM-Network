@@ -6,3 +6,4 @@ re
 nltk
 sklearn (for splitting the datset)
 keras
+GloVe
