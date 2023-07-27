@@ -1,0 +1,2 @@
+Text file containing GloVe word embeddings.
+https://drive.google.com/file/d/13tw51wULGKsCzR5b6lrJy6sxOEgympIR/view?usp=sharing
